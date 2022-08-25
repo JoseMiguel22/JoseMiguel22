@@ -1,10 +1,9 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-   
+     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+     <img src="https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Jose Miguel</h1>
     <h3 align="center"></h3>
 </div>
-
 
 ### Hi there 👋 I am Jose Miguel
 
