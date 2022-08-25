@@ -1,4 +1,8 @@
-![giphy](https://user-images.githubusercontent.com/108826299/186745931-0531522f-b085-4cc6-9e3a-e1bddd1c8374.gif)
+<div id="header" align="center">
+    <img src="https://user-images.githubusercontent.com/108826299/186745931-0531522f-b085-4cc6-9e3a-e1bddd1c8374.gif" width="200" />
+    <h1 align="center">Hi 👋, I'm Jose Miguel</h1>
+    <h3 align="center">
+</div>
 
 ### Hi there 👋 I am Jose Miguel
 
