@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/108826299/186745931-0531522f-b085-4cc6-9e3a-e1bddd1c8374.gif" width="200" />
-    <h1 align="center">Hi everyone👋l</h1>
+    <h1 align="center">Hi there👋</h1>
     <h3 align="center">
 </div>
 
-I'm José Miguel Romero; I'm starting in the world of software development, learning JavaScript, TypeScript, React and Node.js. I want to grow and become a Full-Stack developer. I'm an adaptive person and committed to my work, a faithful believer in what you must work and strive for and never give up on what you want to obtain because "dreams are not expected, they are worked for"✨
+I'm José Miguel Romero; I'm starting in the world of softwares development, learning JavaScript, TypeScript, React and Node.js. I want to grow and become a Full-Stack developer. I'm an adaptive person and committed to my work, a faithful believer in what you must work and strive for and never give up on what you want to obtain because "dreams are not expected, they are worked for"✨
 
 **JoseMiguel22/JoseMiguel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
