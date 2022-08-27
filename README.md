@@ -4,6 +4,7 @@
     <h3 align="center">
 </div>
 
+I'm José Miguel Romero, I'm starting in the world of software development, learning JavaScript, TypeScript, React and Node.js. I want to grow and become a Full-Stack developer. I'm an adaptive person and committed to my work, a faithful believer in what you must work and strive for and never give up on what you want to obtain because "dreams are not expected, they are worked for"✨
 
 **JoseMiguel22/JoseMiguel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
