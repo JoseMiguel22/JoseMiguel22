@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/108826299/186745931-0531522f-b085-4cc6-9e3a-e1bddd1c8374.gif" width="200" />
+    <img src="https://user-images.githubusercontent.com/108826299/187052739-51c28d20-d30f-4850-a8ee-69729ea10e58.gif"/>
     <h1 align="center">Hi there👋 I'm José Miguel Romero</h1>
     <h3 align="center">
 </div>
