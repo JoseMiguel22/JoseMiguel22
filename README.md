@@ -3,6 +3,15 @@
     <h1 align="center">Hi there👋 I'm José Miguel </h1>
     <h3 align="center">I'm starting in the world of Software development, learning JavaScript, TypeScript, React and Node.js. I want to grow and become a Full-Stack developer. I'm an adaptive person and committed to my work, a faithful believer in what you must work and strive for and never give up on what you want to obtain because dreams are not expected, they are worked for✨ </h3>
 </div>
+
+ <div id="header" align="center"> 
+<h2 align="center">Contact </h2>
+
+ <a href="https://www.linkedin.com/in/josé-miguel-romero-hernández-249b31166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:josemiguelr543@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/jose_mro18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </div>
+
   
 <div align="left">
     <h2>🔨 Languages and Tools:</h2>
@@ -16,13 +25,6 @@
       </div>
 </div>
 
- <div id="header" align="center"> 
-<h2 align="center">Contact </h2>
-
- <a href="https://www.linkedin.com/in/josé-miguel-romero-hernández-249b31166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:josemiguelr543@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/jose_mro18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
 
 <div >
 <h2>About Me </h2>
