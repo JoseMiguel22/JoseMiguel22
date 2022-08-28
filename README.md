@@ -40,12 +40,13 @@
 - ⚡ Fun fact: ...
 
 </div>
-</div>
-<h2 align="center">📊 My Stats </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseMiguel22&theme=onedark)](https://git.io/streak-stats)
+<div>
+<h2>📊 My Stats </h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel22&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseMiguel22&theme=tokyonight)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel22&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMiguel22&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
