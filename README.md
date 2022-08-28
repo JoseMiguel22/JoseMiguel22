@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/108826299/187052739-51c28d20-d30f-4850-a8ee-69729ea10e58.gif" width="300"/>
-    <h1 align="center">Hi there👋 I'm José Miguel Romero</h1>
+    <h1 align="center">Hi there👋 I'm José Miguel </h1>
     <h3 align="center">
 </div>
 
