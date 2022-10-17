@@ -43,9 +43,12 @@
 <div>
 <h2>📊 My Stats </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseMiguel22&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMiguel22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel22&hide=contribs,prs&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseMiguel22&theme=flag-india)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel22&hide=contribs,prs&show_icons=true&theme=flag-india)
+
 
 </div>
 
