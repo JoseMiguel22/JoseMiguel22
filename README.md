@@ -47,9 +47,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseMiguel22&theme=flag-india)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseMiguel22&hide=contribs,prs&show_icons=true&theme=flag-india)
-
-
 </div>
 
 
